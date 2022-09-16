@@ -1,0 +1,25 @@
+{
+  "name": "gcp-firebase-ci-cd-test",
+  "version": "1.0.0",
+  "description": "A test repository to implement the gcp/firebase ci/cd pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirudhforhire20/gcp-firebase-ci-cd-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirudhforhire20/gcp-firebase-ci-cd-test/issues"
+  },
+  "homepage": "https://github.com/anirudhforhire20/gcp-firebase-ci-cd-test#readme",
+  "dependencies": {
+    "firebase": "^9.10.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
